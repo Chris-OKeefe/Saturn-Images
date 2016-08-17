@@ -1,0 +1,487 @@
+/* PAID POLITICAL AD STYLES */
+.paid-political-ad {background: #FFC; padding: 2px; border: 1px solid #999; font-weight: 600; font-size: 14px; width: 137px; margin-top: 10px;}
+.paid-political-ad.cki {width:125px;}
+.paid-political-advertiser{position: absolute;right: 0px;border: 1px solid #999;padding: 5px; font-size: 14px; bottom:95px;}
+.paid-political-advertiser .pol-ad-user { font-weight: 600;}
+
+/* Fifth Estate SPONSOR */
+.fifthestate-sponsor {position: absolute; left: 560px; top: 40px;}
+.fifthestate-sponsor a {background:url(/static/images/partner/fifthestate/vertical.png?v=1466189722); width: 169px; height: 47px; position: absolute;}
+.fifthestate-bpage a {background: url(/static/images/partner/fifthestate/bpage.png?v=1466189722); width: 80px; height: 45px; position: absolute; left: 480px; top: 13px}
+
+/* VH1 Crazy Sexy Cool Sponsorship*/
+.crazysexy-sponsor {position: absolute; left: 440px; top: 40px;}
+.crazysexy-sponsor a {background:url(/static/images/partner/vh1/crazysexy_vert.png?v=1466189722); width: 200px; height: 47px; position: absolute;}
+.crazysexy-bpage a {background: url(/static/images/partner/vh1/crazysexy_bpage.png?v=1466189722); width: 80px; height: 45px; position: absolute; left: 450px; top: 14px;}
+
+/* Twix Sponsorship*/
+.twix-sponsor {position: absolute; left: 450px; top: 40px;}
+.twix-sponsor a {background:
+	url(/static/images/partner/twix/twix_vertical.png?v=1466189722); width: 175px; height: 50px; position: absolute;}
+.twix-sponsor-bpage a {background: url(/static/images/partner/twix/twix_bpage.png?v=1466189722); width: 80px; height: 45px; position: absolute; left: 500px; top: 5px;}
+
+/* MLB Sports Sponsorship*/
+.mlb-sponsor {position: absolute; left: 465px; top: 40px;}
+.mlb-sponsor a {background:url(/static/images/partner/mlb/mlb_vert.png?v=1466189722); width: 175px; height: 50px; position: absolute;}
+.mlb-bpage a {background: url(/static/images/partner/mlb/mlb_bpage.png?v=1466189722); width: 80px; height: 45px; position: absolute; left: 450px; top: 14px;}
+
+/* Fedex Diy Sponsorship*/
+.fedex-sponsor {position: absolute; left: 175px; top: 50px;}
+.fedex-sponsor a {background:url(/static/images/partner/fedex/fedex_vert.png?v=1466189722); width: 200px; height: 50px; position: absolute;}
+.fedex-bpage a {background: url(/static/images/partner/fedex/fedex_bpage.png?v=1466189722); width: 78px; height: 45px; position: absolute; left: 325px; top: 19px;}
+
+/* Amazonkindle Entertainment Sponsorship*/
+.vertical-social.vertical-social-amazonfiretv {width: 225px; right: -15px;}
+.amazonfiretv-sponsor {position: absolute; left: 557px; top: 41px;}
+.amazonfiretv-sponsor a {background: transparent url(/static/images/partner/amazonfiretv/amazonfiretv_vert.png?v=1466189722) no-repeat 0 0; width: 200px; height: 50px; display: block;}
+.amazonfiretv-bpage a {background: transparent url(/static/images/partner/amazonfiretv/amazonfiretv_bpage.png?v=1466189722) no-repeat 0 0; width: 80px; height: 45px; position: absolute; left: 471px; top: 27px; display: block;}
+
+/* VisitFlorida Sponsorship*/
+.Travel .vertical-social {width: 225px; right: -15px;}
+.visitflorida-sponsor {position: absolute; left: 280px; top: 41px;}
+.visitflorida-sponsor a {background: transparent url(/static/images/partner/visitflorida/visitflorida_vert.png?v=1466189722) no-repeat 0 0; width: 200px; height: 50px; display: block;}
+.visitflorida-bpage a {background: transparent url(/static/images/partner/visitflorida/visitflorida_bpage.png?v=1466189722) no-repeat 0 0; width: 80px; height: 45px; position: absolute; left: 390px; top: 20px; display: block;}
+
+/* Geek Week Sponsorship */
+.geeky-bpage a {background: url(/static/images/partner/geek_week/youtube_b_page.png?v=1466189722); width: 80px; height: 45px; position: absolute; left: 375px; top: 15px;}
+
+/* Sony Electronics Sponsorship */
+.sony-electronics-sponsor {position: absolute; left: 380px; top: 40px;}
+.sony-electronics-sponsor a {background: transparent url(/static/images/partner/sony/sony_electronics_vert.png?v=1466189722) no-repeat 0 0; width: 200px; height: 50px; display: block;}
+.sony-electronics-bpage a {background: transparent url(/static/images/partner/sony/sony_electronics_bpage.png?v=1466189722) no-repeat 0 0; width: 80px; height: 45px; position: absolute; left: 445px; top: 22px; display: block;}
+
+/* Volkswagen Sports Sponsorship */
+.volkswagen-sports-vertical {position: absolute; left: 245px; top: 19px;}
+.volkswagen-sports-vertical a {background: transparent url(/static/images/partner/vw/vw-vertical.png?v=1466189722) no-repeat 0 0; width: 121px; height: 45px; display: block;}
+.volkswagen-sports-bpage {position: absolute; left: 454px; top: 14px;}
+.volkswagen-sports-bpage a {background: transparent url(/static/images/partner/vw/vw-bpage.png?v=1466189722) no-repeat 0 0; width: 65px; height: 45px; display: block;}
+
+/* Kraft Singles Sponsorship */
+.kraft-singles-sponsor {position: absolute; left: 295px; top: 40px;}
+.kraft-singles-sponsor a {background: transparent url(/static/images/partner/kraft_singles/kraft_singles_vert.png?v=1466189722) no-repeat 0 0; width: 200px; height: 50px; display: block;}
+.kraft-singles-bpage {position: absolute; left: 405px; top: 14px;}
+.kraft-singles-bpage a {background: transparent url(/static/images/partner/kraft_singles/kraft_singles_bpage.png?v=1466189722) no-repeat 0 0; width: 80px; height: 45px; display: block;}
+
+/* Slothsgiving Sponsorship */
+.slothsgiving-vert-header { display: inline-block; padding: 0 0 0 15px; }
+.unified-header .vertical_title.slothsgiving { height: 60px; left: 250; top: 14px; }
+.unified-header .vertical_title.slothsgiving a { background: url("/static/images/partner/slothsgiving/slothsgiving_bpage.png?v=1466189722") no-repeat 0 0; height: 60px; }
+
+/* Sex Tape - Sponsoring */
+.Entertainment .vertical-social {width: 221px; right: -28px;}
+.sextape-sponsor {position: absolute; left: 565px; top: 44px;}
+.sextape-sponsor a {background: transparent url(/static/images/partner/sextape/sextape_vert.png?v=1466189722) no-repeat 0 0; width: 200px; height: 50px; display: block;}
+.sextape-bpage {position: absolute; left: 471px; top: 16px;}
+.sextape-bpage a {background: transparent url(/static/images/partner/sextape/sextape_bpage.png?v=1466189722) no-repeat 0 0; width: 80px; height: 45px; display: block;}
+
+/* SIMS 4 Custom WEIRD */
+.unified-header .reactions li.sims-weird-badge a {background: transparent url("/static/images/partner/sims_weird/sims_weird_badge.png?v=1466189722") no-repeat 0 0; display: block; width: 50px; height: 55px; margin: 0 0 0 2px;}
+
+/* Friends on Comedy Central - Sponsoring */
+.unified-header .reactions li.cc_friends {width:54px;}
+.unified-header .reactions li.cc_friends a {display: block; width: 50px; height: 55px; margin: 1px 0 0 2px;}
+.unified-header .reactions li.ccf_how_you_doing a {background: transparent url("/static/images/partner/cc_friends/how_you_doing.png?v=1466189722") no-repeat 0 0;}
+.unified-header .reactions li.ccf_smelly_cat a {background: transparent url("/static/images/partner/cc_friends/smelly_cat_badge.png?v=1466189722") no-repeat 0 0;}
+.unified-header .reactions li.ccf_central_perk a {background: transparent url("/static/images/partner/cc_friends/central_perk_badge.png?v=1466189722") no-repeat 0 0;}
+
+/* Amazonfire Geeky */
+.unified-header .reactions li.amazonfire {width:54px;}
+.unified-header .reactions li.amazonfire a {background: transparent url("/static/images/partner/amazonfire/amazonfire_badge.png?v=1466189722") no-repeat 0 0; display: block; width: 50px; height: 55px; margin: 0 0 0 2px;}
+
+/* Styling for Entertainment Vert Sponsorship */
+.vertical-social.fifthestate, .vertical-social.crazysexy-vh1 { right:-75px;}
+
+
+/* BEGIN REACTION CAM */
+
+.unified-header .reactions li.reaction_cam { width: 133px; }
+.unified-header .reactions li.reaction_cam a    {  width: 129px; background:url(/static/images/partner/starbucks/reactioncam_header_badge2.png?v=1466189722) no-repeat; }
+.unified-header .reactions li.reaction_cam_old a    {  background:url(/static/images/partner/starbucks/reactioncam_header_badge.png?v=1466189722) no-repeat; }
+
+/** Reaction Camera **/
+.react_cam_thumbs { position: relative; top: 6px; }
+.react_cam_thumbs img { width: 45px; height: 45px; }
+#react_cam_button .react_cam_sprite.face_ico,
+#react_cam_button .react_cam_sprite.camera_ico { float: left; margin-right: 4px; }
+#react_cam_tt { display: none; }
+.react_cam_wrapper .react_gif_header { left: 16px; margin-bottom: 12px; }
+.react_cam_wrapper .webcam_btn { left: 30px; }
+.react_cam_wrapper .powered_by { font-size: 11px; color: #999999; position: relative; left: 104px; margin-top: 12px; margin-bottom: 8px; }
+.react_cam_wrapper .logo_nonbranded,
+.react_cam_wrapper .logo_smarttv { display: inline-block; float: right; right: 32px; }
+.react_cam_wrapper .logo_nonbranded_sml,
+.react_cam_wrapper .logo_smarttv_sml { left: 56px; }
+.react_cam_wrapper { position: absolute; z-index: 909; }
+.react_cam_wrapper a { color: inherit; }
+
+.react_cam_wrapper .frame_wrapper { position: absolute; top: 13px; height: auto; border: 1px solid #cccccc; background: #fcfcfc; z-index: 999; border-radius: 5px; -moz-border-radius: 5px; -moz-box-shadow: 1px 1px 5px #999; -webkit-box-shadow: 1px 1px 5px #999; box-shadow: 1px 1px 5px #999; }
+.react_cam_wrapper .frame_wrapper .frame { display: none; }
+
+.react_cam_wrapper .frame_wrapper .frame1 { cursor: pointer; width: 280px; padding: 14px 0px; }
+.react_cam_wrapper.starbucks  .frame_wrapper .frame1 { width: 200px; padding: 10px; }
+.react_cam_wrapper .frame_wrapper .frame1 .logo_starbucks_sml{ margin: 15px auto 0 auto;  }
+.react_cam_wrapper .frame1 h1 { font-size: 13px; line-height: 1.5; font-weight: 600; text-align:center; }
+.react_cam_wrapper .frame1 .headline-1 { font-size: 13px; line-height: 1.5; font-weight: 600; text-align:center; }
+.react_cam_wrapper .frame1 .btn_wrapper span { font-size: 15px; }
+.react_cam_wrapper .frame1 .btn_wrapper { margin: 10px 0; text-align: center; }
+
+.react_cam_wrapper .frame_wrapper .frame2 { width: 420px; padding: 0px; }
+.react_cam_wrapper .frame_wrapper .frame2 .tv_frame { margin-bottom: 22px; text-align: center; left: 50px; }
+.react_cam_wrapper.starbucks .frame_wrapper .frame2 { width: 250px; }
+.react_cam_wrapper.starbucks .frame_wrapper .frame2 .camera_wrapper { width: 238px; height: 157px; margin: 0 0 10px 0; border: 1px solid white;}
+.react_cam_wrapper.starbucks .frame_wrapper .frame2 .record_btn span { display: block; margin: 2px 5px; }
+.react_cam_wrapper.nonbranded .frame_wrapper .frame2 { width: 420px; padding-bottom: 0px; }
+.react_cam_wrapper .frame2 .frame2_bg { padding: 5px;background: #e5e7ea url('/static/images/public/sprites/react_cam_sprite.png?v=1466189722') -387px -85px no-repeat; border-radius: 5px; -moz-border-radius: 5px; }
+.react_cam_wrapper .frame2 .camera_wrapper { border-radius: 5px; -moz-border-radius: 5px; background: #999999;background-image: -webkit-gradient(linear, 100% 0%, 0% 50%, from(#474747), to(#999999));background-image: -moz-linear-gradient(center right, #474747 0%, #999999 100%); }
+.react_cam_wrapper .frame2 .camera_wrapper .screen_call_to_action h1 { display: block;color: #FFF;font-size: 22px; font-weight: 600; text-align: center; margin-top: 25%; }
+.react_cam_wrapper .frame2 .camera_wrapper .screen_call_to_action .headline-1 { display: block;color: #FFF;font-size: 22px; font-weight: 600; text-align: center; margin-top: 25%; }
+.react_cam_wrapper .frame2 .camera_wrapper .screen_call_to_action h2 { float:right;color: #fff; font-size: 16px; font-weight: 600; }
+.react_cam_wrapper .frame2 .camera_wrapper .screen_call_to_action .call_to_action_bottom_wrapper { position: absolute; bottom: 0px; right: 10px; }
+.react_cam_wrapper .frame2 .bottom_wrapper { width: 240px; }
+.react_cam_wrapper .frame2 .bottom_wrapper .logo_wrapper { width: 140px; overflow: hidden; float:left; }
+.react_cam_wrapper .frame2 .bottom_wrapper .button_wrapper { bottom: 0px; left: 0px; float: right; }
+.react_cam_wrapper .frame2 .bottom_wrapper .button_wrapper .restart_btn { display: block; margin: 5px 0 0 0; font-size: 10px; color: #333333; font-weight: 600; }
+
+.react_cam_wrapper .record_btn { cursor: pointer; position: relative; display: inline-block; }
+.react_cam_wrapper.nonbranded .record_btn { bottom: 7px; }
+.react_cam_wrapper .gogif_wrapper { position: relative; }
+.react_cam_wrapper .save_ctrl div { background-color: #758fa8; border-radius: 4px; padding: 4px; color: #FFFFFF; display: inline-block; }
+.react_cam_wrapper .save_ctrl div:hover { background-color: #0077EE; }
+.react_cam_wrapper .save_ctrl .restart_btn { margin-left: 4px; }
+.react_cam_wrapper .screen { border-radius: 5px; -moz-border-radius: 5px; position: absolute; width: 238px; height: 157px; text-align: center; z-index: 2; }
+.react_cam_wrapper .screen .lbl { font-size: 18px; position: relative; top: 75px; color: #FFFFFF; }
+.react_cam_wrapper .screen_err .lbl { color: #990000; }
+.react_cam_wrapper .screen .dash_circle { position: relative; top: 5px; left: 43px; }
+
+/* Reaction Cam Arrows */
+.react_cam_wrapper .arrow_wrapper { position: relative; }
+.react_cam_wrapper .arrow { position: absolute; width: 0; height: 0; border-left-width: 0; background: none;  }
+.react_cam_wrapper .arrowBorder { border-right: 12px solid transparent; border-left: 12px solid transparent; border-bottom: 15px solid #cccccc; z-index: 999; }
+.react_cam_wrapper .arrowFill1 { border-right: 10px solid transparent; border-left: 10px solid transparent; border-bottom: 12px solid #fcfcfc; left: 2px; top: 2px; z-index: 1000; }
+.react_cam_wrapper .arrowFill2 { border-right: 10px solid transparent; border-left: 10px solid transparent; border-bottom: 12px solid #e2e7e9; left: 2px; top: 2px; z-index: 1000; }
+
+/* Reaction Cam Sprite */
+.react_cam_sprite { position: relative; background: url('/static/images/public/sprites/react_cam_sprite.png?v=1466189722') no-repeat; }
+.react_cam_sprite.face_ico { width: 21px; height: 21px; background-position: -161px -108px; }
+.react_cam_sprite.camera_ico { width: 30px; height: 22px; background-position: -384px 0px; }
+.react_cam_sprite.camera_ico_white { width: 33px; height: 23px; background-position: -416px 0px; }
+.react_cam_sprite.react_gif_header { width: 248px; height: 15px; background-position: 0px -180px; }
+.react_cam_sprite.logo_starbucks_sml { width: 104px; height: 29px; background-position: -384px -38px; }
+.react_cam_sprite.logo_starbucks { width: 181px; height: 31px; background-position: -193px -55px; }
+.react_cam_sprite.logo_nonbranded { width: 155px; height: 24px; background-position: 0px -153px; }
+.react_cam_sprite.logo_nonbranded_sml { width: 155px; height: 24px; background-position: 0px -153px; }
+.react_cam_sprite.tv_frame { width: 319px; height: 197px; background-position: 0px -199px; }
+.react_cam_sprite.record_btn { width: 169px; height: 40px; background-position: -205px -134px; }
+.react_cam_sprite.dash_circle { width: 148px; height: 148px; background-position: 0px 0px; }
+.react_cam_sprite.webcam_btn { width: 221px; height: 47px; background-position: -154px 0px; }
+.react_cam_sprite.down_arrow { width: 20px; height: 28px; background-position: -466px 0px; }
+.react_cam_sprite.gray_circle { width: 242px; height: 161px; background-position: -384px -333px; }
+
+/* Reaction Cam CTA Button */
+.horizontal-share-buttons div.shares-reactcam-cta { cursor: pointer; top: -60px; left: -55px;  position: absolute; z-index: 9;width: 150px; height: 45px; padding: 5px; background: white; border: 1px solid #cccccc; border-radius: 5px;-moz-border-radius: 5px; -moz-box-shadow: 0px 0px 3px #999;-webkit-box-shadow: 0px 0px 3px #999;box-shadow: 0px 0px 3px #999; }
+.horizontal-share-buttons div.shares-reactcam-cta .left-meta { float: left; width: 115px; }
+.horizontal-share-buttons div.shares-reactcam-cta .left-meta span { font-size: 14px; line-height: 20px; color: #575757; }
+.horizontal-share-buttons div.shares-reactcam-cta .left-meta .new { background: #f0301b; padding: 3px 3px 1px 3px; float: left; color: white; font-size: 8px; margin: 4px 5px 0 0; line-height: 8px; }
+.horizontal-share-buttons div.shares-reactcam-cta .right-meta { float: right; }
+.horizontal-share-buttons div.shares-reactcam-cta .arrow_wrapper { position: relative; left: 70px; float: none !important; }
+.horizontal-share-buttons div.shares-reactcam-cta .arrow { float: none !important; display: block; position: absolute !important; width: 0; height: 0; border-left-width: 0; background: none;  }
+.horizontal-share-buttons div.shares-reactcam-cta .arrowBorder { border-right: 12px solid transparent; border-left: 12px solid transparent; border-top: 15px solid #cccccc; top: 50px; z-index: 999; }
+.horizontal-share-buttons div.shares-reactcam-cta .arrowFill { border-right: 10px solid transparent; border-left: 10px solid transparent; border-top: 12px solid #fcfcfc; left: 2px; top: 50px; z-index: 1000; }
+
+/* END REACTION CAM */
+
+
+/* BEGIN SAUZA TAKEOVER */
+
+body.sauza_break{overflow-x:hidden;}
+.sauza_body_overlay {position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; background: rgba(0,0,0,.72); z-index: 100;}
+.ie9 .sauza_body_overlay {display:none; !important;}
+.sauza_wrap {width:1125px; height:100%;  position:absolute; z-index:101; top:-110px;  }
+.sauza_wrap.pinata_mode{cursor:url(/static/images/partner/sauza/sauza_bat.png?v=1466189722), auto  !important;}
+.ie9 .sauza_wrap.pinata_mode {cursor:pointer, auto  !important;}
+.sauza_right { background:url(/static/images/partner/sauza/sauza_rail_right.jpg?v=1466189722) no-repeat;); position: absolute;
+width: 300px;
+height: 100%;
+right: -300px;}
+.sauza_left {background: url(/static/images/partner/sauza/sauza_left_rail.jpg?v=1466189722) no-repeat; position: absolute;
+width: 300px;
+height: 100%;
+left: -300px;}
+.ie9 .sauza_wrap.complete {background:url(/static/images/partner/sauza/ie_bg.png?v=1466189722) !important;}
+.sauza_pinata_wrap {height: 470px; width: 378px; position:absolute; z-index: 155; top: -500px; left: 400px; float: left;}
+.sauza_pinata {background:url(/static/images/partner/sauza/sauza_pinata.png?v=1466189722) no-repeat; position: absolute;
+height: 470px; width: 378px; z-index: 155; top: 0px; }
+.sauza_pinata.break_1 {background:url(/static/images/partner/sauza/pinata_break_1.png?1466189722) no-repeat;}
+.sauza_pinata.break_2 {background:url(/static/images/partner/sauza/pinata_break_2.png?1466189722) no-repeat;}
+.sauza_pinata.break {background:url(/static/images/partner/sauza/broken_pinata_final.png?1466189722) no-repeat;}
+.sauza_pinata_wrap .close_sauza {position: absolute; bottom: 50px; right: 50px; cursor:pointer; z-index:500;}
+.sauza_pinata_wrap .close_sauza.break {top:10px; right:-300px;}
+.sauza_pinata_wrap .close_sauza span {color: #666; font-size: 14px; border: 1px solid #fff; border-radius: 10px; width: 10px; height: 20px; display: block; padding: 0 5px; background: #f2f2f2;}
+.sauza_complete {position: absolute; top: 450px; left: 225px;}
+.sauza_complete .sauza_logo {float:left; top:-150px; left:200px; position:relative;}
+.sauza_complete .buzz_1, .sauza_complete .buzz_2 {width:165px; float:left; position:relative; top:-150px; left:200pxs;}
+.sauza_complete .buzz_overlay {background:url(/static/images/partner/sauza/buzz_overlay.png?v=1466189722); position: absolute;
+width: 130px;
+height: 123px;
+}
+.sauza_complete .buzz_image{width: 125px; height: 122px; overflow: hidden;}
+.sauza_complete .buzz_image img{width: 183px; height: auto; margin-left: -15px;}
+.sauza_complete .sauza_complete_lower {position: absolute; top: 217px; left:35px; width: 100%;}
+.sauza_complete .sauza_complete_lower div {float:left;}
+.sauza_complete .sauza_complete_lower .sauza_break_again{float:left; background: #c6c6c6; font-size: 21px; color: #fff; font-weight: 800; padding: 10px; width: 180px; text-align: center;border-radius: 9px; cursor:pointer;}
+.sauza_complete .buzz_text {font-weight: 600; color:#fff; font-size:14px; position: absolute;top:140px; width:130px; text-align: center;}
+.sauza_complete .buzz_text a , .sauza_complete .buzz_text span{display: block;}
+.sauza_complete_lower .shareBtn {margin:8px 0px 0px 20px;}
+
+.sauza_takeover_header a { background:url(/static/images/partner/sauza/sauza_activation.png?v=1466189722); width: 165px; height: 55px; position: absolute; left: 327px; top: 7px; }
+
+@media all and (min-width:1125px) {
+	.sauza_takeover_header a {left:464px;}
+}
+
+/* END SAUZA TAKEOVER */
+
+
+/* BEGIN ART FOR FREEDOM */
+
+.artforfreedom_header {
+	height: 40px;
+	padding: 10px 0;
+	background-color: #000000;
+}
+.artforfreedom_header .submit_to-logo {
+	margin: 0 0 0 15px;
+	width: 460px;
+	float: left;
+  color: white;
+  font-size: 42px;
+  font-weight: 100;
+  letter-spacing: 6px;
+}
+
+.artforfreedom_header .submit_to-text {
+	font-size: 14px;
+	line-height: 20px;
+	width: 500px;
+	color: #FFFFFF;
+	float: left;
+  margin: 4px 0 0 0;
+}
+
+.submit_to-userterms p {
+	padding-top: 20px;
+	padding-right: 55px;
+	padding-bottom: 10px;
+	font-size: 14px;
+	line-height:17px;
+	color: #333;
+}
+
+.submit_to-userterms a {
+	color: #07e;
+}
+
+p.artforfreedom {
+	font-size: 15px;
+	line-height: 18px;
+}
+a.artforfreedom.button2 {
+	display: inline-block;
+    font-weight: 600;
+    font-size: 25px;
+    height: 40px;
+    text-align: center;
+    width: 180px;
+	margin: 10px 0 15px 65px;
+	padding: 0 0 5px;
+}
+
+/* END ART FOR FREEDOM */
+
+
+/* START NBC SPONSORSHIP */
+
+/* Request Like Box On Header */
+.rlc-disabled { display: none !important; }
+#header-req-like-container { height: 30px; margin: 0px -15px 0px -15px; }
+#header-req-like { }
+#header-req-like .request-like-container {
+    height: 30px;
+    width: 100%;
+}
+#header-req-like .more-tw { display: inline; vertical-align: -3px; margin-left: 5px; }
+#header-req-like .rlc-txt { line-height: 2.5; color: #838383; vertical-align: 2px; }
+#header-req-like .rlc-close {
+    padding: 0px 3px 0px 3px;
+    font-weight: bolder;
+    vertical-align: 2px;
+    cursor: pointer;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    line-height: 0;
+    text-decoration: none !important;
+}
+#header-req-like .fb-like { margin: 5px 4px; }
+#header-req-like .rlc-collect-email-container { vertical-align: 2px; }
+#header-req-like input.rlc-collect-email {
+    border: 1px solid #efefef;
+    padding: 2px;
+    width: 140px;
+    margin-left: 3px;
+}
+#header-req-like .rlc-collect-email-go {
+    border: 1px solid #EFEFEF;
+    padding: 1px 3px 1px 3px;
+    margin: 0px 5px 0px 3px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+    /* white format */
+#header-req-like.rlc-white { padding: 2px 15px 2px 15px; }
+#header-req-like.rlc-white .fb-like { margin: 5px 5px 5px 8px; }
+#header-req-like.rlc-white .request-like-container { height: 30px; }
+#header-req-like.rlc-white #request-like-white-box { padding-top: 2px; }
+#header-req-like.rlc-white .rlc-close {
+    background-color: #EFEFEF;
+    color: white;
+}
+#header-req-like.rlc-white .rlc-close:hover { background-color: #666; }
+#header-req-like #request-like-white-box .rlc-collect-email-go { color: #666; }
+#header-req-like #request-like-white-box .rlc-collect-email-go:hover { background-color: #666; color: #fff; }
+
+    /* black format */
+#header-req-like #request-like-black-box a { color: #fff; text-decoration: underline;}
+#header-req-like.rlc-black { background-color: #444444; padding: 1px 15px 1px 15px; }
+#header-req-like #request-like-black-box { background-color: #444444; }
+#header-req-like #request-like-black-box .rlc-close {
+    float: right;
+    width: 10px;
+    height: 8px;
+    margin-top: 7px;
+    padding-top: 10px;
+    background-color: transparent;
+    color: #fff;
+}
+#header-req-like #request-like-black-box .rlc-close:hover { background-color: #EFEFEF; color: #444444;}
+#header-req-like #request-like-black-box input.rlc-collect-email {
+    border: 1px solid #666;
+    background-color: #ebebeb;
+}
+#header-req-like #request-like-black-box .rlc-collect-email-go {
+    border: 1px solid #666;
+    background-color: #ebebeb;
+    color: #666;
+}
+#header-req-like #request-like-black-box .rlc-collect-email-go:hover { background-color: #EFEFEF; color: #666; }
+#header-req-like #request-like-black-box .fb-like { margin: 5px 10px 5px 0px; }
+#header-req-like #request-like-black-box .rlc-txt { color: #fff; font-weight: bold;}
+
+/* END NBC SPONSORSHIP */
+
+
+/* BEGIN STELARA SIDEBAR WIDGET STYLES */
+
+#stelara_body {
+	border: 1px solid #aaa;
+	height: 355px;
+	float: left;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 12px;
+	color:  #333333;
+	padding: 0px 15px;
+	overflow: scroll;
+	position: relative;
+	margin-top: 15px;
+}
+
+.UserPage #stelara_body {
+	margin-top: -23px;
+}
+
+#stelara_body  .stelara_content {
+	margin-top: 10px;
+}
+
+#stelara_body .safety_info_title {
+	font-family: "Roboto Condensed", sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color:  #4b3d88;
+}
+
+#stelara_body .mobile_close_icon, #stelara_body .stelara_content_collapsed {
+	display: none;
+}
+
+#stelara_body .stelara_title {
+	font-size:  12px;
+	font-family: "Roboto Condensed", sans-serif;
+	font-weight: normal;
+	color:  #333333;
+}
+
+#stelara_body .title_underlined {
+	text-decoration: underline;
+}
+
+#stelara_body .stelara_subtitle {
+	font-family: "Roboto Condensed", sans-serif;
+	font-weight: bold;
+	font-size: 12px;
+	color: #333333;
+}
+
+#stelara_body .stelara_list {
+	list-style: disc inside none;
+	margin-bottom: 10px;
+}
+
+/* END STELARA SIDEBAR WIDGET STYLES */
+
+/* BEGIN NYTIMES LIVE */
+
+.nytimes_live { padding: 10px 0px 20px 0px; }
+.nytimes_live img {width:470px;}
+
+@media all and (min-width:1125px) { /* RESPONSIVE */
+ 	.nytimes_live img {width:590px;}
+}
+
+/* END NYTIMES LIVE */
+
+/* HONDA SPONSORSHIP BF-18334 */
+/* DISABLE SUBBUZZ SHARING ON THESE POSTS */
+.suplist_list--hondart .share-box {
+  display: none;
+}
+
+.bottom_shares.bottom_shares--hondart {
+  padding: 20px;
+  width: 595px;
+  margin-bottom: 20px;
+}
+
+.bottom_shares.bottom_shares--hondart .fb_share {
+  margin-left: 100px;
+}
+
+.bottom_shares--hondart .hondaart__share-title {
+  display: block;
+  margin-bottom: 10px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.suplist_list--hondart  .buzz_superlist_item_image:last-child {
+  display: none;
+}
+
+.hondart__cyo-button {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  width: 595px;
+}
+
+/* END HONDA SPONSORSHIP BF-18334 */
